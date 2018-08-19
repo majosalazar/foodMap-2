@@ -1,0 +1,25 @@
+{
+  "name": "foodmap2.0",
+  "version": "1.0.0",
+  "description": "test unitarios foodmap",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majosalazar/foodMap-2.git"
+  },
+  "author": "Maria José Salazar Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majosalazar/foodMap-2/issues"
+  },
+  "homepage": "https://github.com/majosalazar/foodMap-2#readme"
+}
